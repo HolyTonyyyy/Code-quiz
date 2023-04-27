@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(38, 0, 99);
+}
+
+.wrapper {
+    padding: 150px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    margin-top: -20px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(218, 177, 255);
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    background-color: #ffffff;
+    color: rgb(196, 145, 255);
+}
