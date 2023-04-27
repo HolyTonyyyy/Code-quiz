@@ -9,4 +9,5 @@ so instead i use window prompt to display my question. but as you can see, once 
 
 this was the braking point for me. hopeful during the weeks go by i will have a better understanding of this a will re-submit as quick as possible
 
-file:///C:/Users/T-Bon/Bootcamp/guess-game/index.html
+
+![Screenshot (1)](https://user-images.githubusercontent.com/129125608/234931326-9d00bfe0-1bdc-43bf-b398-720870898e44.png)
